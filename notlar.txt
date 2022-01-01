@@ -1,0 +1,10 @@
+urllerin kategorileri belli bu sekilde bir csv var
+
+amacimiz bu daha onceden belirlenmis urlerin
+    confidence 0.5ten buyuk olanlari
+    not working olmayanlari 5 adet classi
+
+ait olduklari kategoriye gore hangi kelimelere sahip olduklarini bulmak.
+
+url kategori ve tokenlari olarak ayirarak yeni gelecek olan urlin nasil bir kategoriye
+ait olabilecegini bulmak.
